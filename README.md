@@ -38,4 +38,4 @@ Raw bitcoin blockchain data is used to create the dataset for this project. It c
 - The inclusion of unsupervised machine learning algorithms provided insights into inherent data structures, aiding in potential fraud identification even in situations lacking labeled data.
 - Understanding and implementing these techniques broadened the system's adaptability and robustness in real-world scenarios.
 - Recognized the importance of precision and recall in imbalanced datasets.
-- An avenue for future exploration involves hybrid classification techniques to enhance model performance, similar to a paper read on similar project that applied Naive Bayes to KNN resulting in increased precision, recall, and reduced model complexity.
+- An avenue for future exploration involves hybrid classification techniques to enhance model performance, similar to a paper read on similar project that applied Naive Bayes to KNN resulting in increased precision, recall, and reduced model complexity. 
